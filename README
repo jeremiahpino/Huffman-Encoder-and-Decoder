@@ -1,0 +1,3 @@
+Jeremiah Pino (jpino01)
+
+I spent this whole week living in the library. I put in a large amount of time and effort into this assignment. In my encoding part of the assignment I believe my logic was overall correct for encoding. The test cases I did not pass had the same encoding up to a certain point, but for some reason my buffer would stop short of the full amount of characters read in the buffer. My decoding performed way better than my encoding. Have a nice day. 
